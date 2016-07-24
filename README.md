@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB coding of the GW algorithm, which is used to identify subnetworks (solve Prize-Collecting Steiner Tree Problem).
 
-There are six MATLAB files in total: GW.m is the main code of GW algorithm; 
+There are seven MATLAB files in total: GW.m is the main code of GW algorithm; 
 D_01_b.mat is a drug similarity network; Function_merge_cpn.m is a function in the GW growth phase to merge two components; 
 Function_OutputDegree.m is a function to calculate the degrees of vertices; 
 Function_StrongPrune2.m is a function of the strong pruning algorithm; 
