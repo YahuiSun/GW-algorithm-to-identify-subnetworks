@@ -1,4 +1,4 @@
-# GW-algorithm-to-identify-subnetworks
+# GW-to-identify-subnetworks
 
 This repository contains the MATLAB coding of the GW algorithm, which is used to identify subnetworks (solve Prize-Collecting Steiner Tree Problem).
 
